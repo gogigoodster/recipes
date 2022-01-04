@@ -4,15 +4,17 @@ body {
 }
 
 img {
-    width: 300px;
-    height: 200px;
+    width: 30em;
+    height: 20em;
     object-fit: cover;
 }
 
 ul > li {
     padding-bottom: 0.5em;
+    font-size: 1em;
 }
 
 ol > li {
     padding-bottom: 1em;
+    font-size: 1em;
 }
