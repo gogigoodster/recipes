@@ -7,6 +7,7 @@ body {
   body{
     text-size-adjust: 200%;
     -webkit-text-size-adjust: 200%;
+    margin: 20px;
   }
 }
 
