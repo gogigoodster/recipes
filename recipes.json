@@ -67,7 +67,7 @@
             "Handful cilantro"
         ],
         "steps": [
-            "Preheat oven to 350° F.",
+            "Preheat oven to 350°F.",
             "In a large frying pan at medium-high heat add a tablespoon of oil. When the oil is shimmering and hot, add a corn tortilla to the pan. Cook it for several seconds, use a metal spatula to turn it over, and cook it for few seconds more. Continue stacking tortillas, removing the ones that have bubbled, softened and lightly browned, while adding more oil as needed to the pan.",
             "Heat 2 teaspoons olive oil in a large sauté pan on medium heat. Add the chopped onion and cook for 5 to 6 minutes, until translucent. Add the garlic and cook for a minute more. Add the crushed tomatoes. Add the green chiles. Add 1/2 cup of water. Add the oregano. Bring to a simmer and taste. If the sauce tastes too vinegary, add half a teaspoon of sugar to the sauce. Remove from heat.",
             "Put a little olive oil on the bottom of a 3-quart (9x13) casserole pan. Cover 2/3 of a tortilla lightly with the shredded cheese, then roll it up and place it in the casserole pan. Continue until all tortillas are filled and rolled.",
@@ -108,7 +108,7 @@
             "1 teaspoon grated peeled fresh ginger",
             "1 teaspoon granulated sugar",
             "2 tablepoons fish sauce or salted shrimp paste, or 3 tablespoons water",
-            "1-5 tablespoons Korean red pepper flakes (gochugaru)",
+            "1–5 tablespoons Korean red pepper flakes (gochugaru)",
             "8 ounces Korean radish or daikon radish, peeled and cut into matchsticks",
             "4 medium scallions, trimmed and cut into 1-inch pieces"
         ],
@@ -148,6 +148,50 @@
             "Roll balls of dough (about 1&frac12; tablespoons of dough per cookie) and roll into granulated sugar. Place 2 inches apart on the baking sheets. Press fork into the tops to create the criss-cross pattern. Bake for 11 minutes or until very lightly browned on the sides. The centers will look very soft and undone. Remove from the oven and let cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely. The cookies will continue to “set” on the baking sheet during this time."
         ]
     },
+    "pesto-pasta-salad": {
+        "name": "Pesto Pasta Salad",
+        "source": "https://www.laurainthekitchen.com/recipes/caprese-pasta-salad/",
+        "ingredients": [
+            "8 oz of Orecchiette Pasta or any other short cut pasta, cooked according to package instructions and cooled",
+            "1 pint of Cherry Tomatoes, halved",
+            "8 oz Ball of Fresh Mozzarella, cubed",
+            "1 Cup of Fresh Basil Leaves",
+            "3 Tbsp of Extra Virgin Olive Oil",
+            "1 Tbsp of Red Wine Vinegar",
+            "&frac12; tsp of Dried Oregano",
+            "&frac12; Clove of Garlic, finely minced",
+            "Salt and Pepper, to taste"
+        ],
+        "steps": [
+            "In a blender add the basil, vinegar, garlic, oregano and 1 tbsp of olive oil. Turn the blender on and when the basil has turned into a paste, drizzle in the remaining 2 tbsp of olive oil. Season with salt and pepper.",
+            "In a large bowl add the mozzarella and cheery tomatoes, season with salt and pepper. Add the pasta and basil vinaigrette. Toss everything to combine and refrigerate 1 hour before serving."
+        ]
+    },
+    "pumpkin-bread": {
+        "name": "Pumpkin Bread",
+        "source": "https://www.onceuponachef.com/recipes/spiced-pumpkin-bread.html",
+        "image": "pumpkin-bread.jpg",
+        "ingredients": [
+            "2 cups all-purpose flour, spooned into measuring cup and leveled-off",
+            "&frac12; teaspoon salt",
+            "1 teaspoon baking soda",
+            "&frac12; teaspoon baking powder",
+            "1 teaspoon ground cloves",
+            "1 teaspoon ground cinnamon",
+            "1 teaspoon ground nutmeg",
+            "1&frac12; sticks (&frac34; cup) unsalted butter, softened",
+            "2 cups sugar",
+            "2 large eggs",
+            "1 15-oz can 100% pure pumpkin"
+        ],
+        "steps": [
+            "Preheat the oven to 325°F and set an oven rack in the middle position. Generously grease two 8 x 4-inch loaf pans with butter and dust with flour.",
+            "In a medium bowl, combine the flour, salt, baking soda, baking powder, cloves, cinnamon, and nutmeg. Whisk until well combined; set aside.",
+            "In a large bowl of an electric mixer, beat the butter and sugar on medium speed until just blended. Add the eggs one at a time, beating well after each addition. Continue beating until very light and fluffy, a few minutes. Beat in the pumpkin. The mixture might look grainy and curdled at this point -- that's okay.",
+            "Add the flour mixture and mix on low speed until combined.",
+            "Turn the batter into the prepared pans, dividing evenly, and bake for 65–75 minutes, or until a cake tester inserted into the center comes out clean. Let the loaves cool in the pans for about 10 minutes, then turn out onto a wire rack to cool completely."
+        ]
+    },
     "shepherds-pie": {
         "name": "Shepherd's Pie",
         "source": "https://www.thewholesomedish.com/the-best-classic-shepherds-pie/",
@@ -170,7 +214,7 @@
             "1 cup frozen mixed peas & carrots",
             "&frac12; cup frozen corn kernels",
             "section-Potato Topping",
-            "1&frac12;-2 lb. russet potatoes (about 2 large potatoes peeled and cut into 1 inch cubes)",
+            "1&frac12;–2 lb. russet potatoes (about 2 large potatoes peeled and cut into 1 inch cubes)",
             "8 tablespoons unsalted butter (1 stick)",
             "&frac13; cup half & half",
             "1&frac12; teaspoon garlic powder",
@@ -180,17 +224,48 @@
         ],
         "steps": [
             "Add the oil to a large skillet and place it over medium-high heat for 2 minutes. Add the onions. Cook 5 minutes, stirring occasionally.",
-            "Add the ground beef (or ground lamb) to the skillet and break it apart with a wooden spoon. Add the parsley, rosemary, thyme, salt, and and pepper. Stir well. Cook for 6-8 minutes, until the meat is browned, stirring occasionally.",
+            "Add the ground beef (or ground lamb) to the skillet and break it apart with a wooden spoon. Add the parsley, rosemary, thyme, salt, and and pepper. Stir well. Cook for 6–8 minutes, until the meat is browned, stirring occasionally.",
             "Add the Worcestershire sauce and garlic. Stir to combine. Cook for 1 minute.",
             "Add the flour and tomato paste. Stir until well incorporated and no clumps of tomato paste remain.",
             "Add the broth, frozen peas and carrots, and frozen corn. Bring the liquid to a boil then reduce to simmer. Simmer for 5 minutes, stirring occasionally.",
-            "Set the meat mixture aside. Preheat oven to 400° F.",
-            "Place the potatoes in a large pot. Cover the potatoes with water. Bring the water to a boil. Reduce to a simmer. Cook until potatoes are fork tender, 10-15 minutes.",
+            "Set the meat mixture aside. Preheat oven to 400°F.",
+            "Place the potatoes in a large pot. Cover the potatoes with water. Bring the water to a boil. Reduce to a simmer. Cook until potatoes are fork tender, 10–15 minutes.",
             "Drain the potatoes in a colander. Return the potatoes to the hot pot. Let the potatoes rest in the hot pot for 1 minute to evaporate any remaining liquid.",
             "Add butter, half & half, garlic powder, salt, and pepper. Mash the potatoes and stir until all the ingredients are mixed together.",
             "Add the parmesan cheese to the potatoes. Stir until well combined.",
             "Pour the meat mixture into a 9x9 (or 7x11) inch baking dish. Spread it out into an even layer. Spoon the mashed potatoes on top of the meat. Carefully spread into an even layer.",
-            "If the baking dish looks very full, place it on a rimmed baking sheet so that the filling doesn’t bubble over into your oven. Bake uncovered for 25-30 minutes at 400° F. Cool for 15 minutes before serving."
+            "If the baking dish looks very full, place it on a rimmed baking sheet so that the filling doesn’t bubble over into your oven. Bake uncovered for 25–30 minutes at 400°F. Cool for 15 minutes before serving."
+        ]
+    },
+    "veggie-tofu-stir-fry": {
+        "name": "Veggie Tofu Stir Fry",
+        "source": "https://minimalistbaker.com/tofu-that-tastes-good-stir-fry/",
+        "image": "veggie-tofu-stir-fry.jpg",
+        "ingredients": [
+            "section-Stir Fry",
+            "1 14-ounce package firm or extra-firm tofu",
+            "2 cups roughly chopped green beans",
+            "1 cup diced carrots or red pepper",
+            "2 Tbsp toasted sesame oil for sautéing (or sub peanut or coconut)",
+            "section-Sauce",
+            "1/4 cup low-sodium soy sauce",
+            "1 Tbsp fresh grated ginger",
+            "2 Tbsp organic brown sugar",
+            "1 Tbsp agave or maple syrup (or honey)",
+            "1 Tbsp cornstarch",
+            "section-For Serving",
+            "Brown rice, white rice, or quinoa",
+            "Peanut sauce"
+        ],
+        "steps": [
+            "Preheat oven to 400°F and begin drying your tofu. Drain, remove it from the package and place between two thick towels folded into the shape of the tofu. Then place a plate or bowl on top and top it with something heavy like a book or skillet. Alternatively, use a tofu press.",
+            "Let it dry for about 15 minutes, changing your towels if they get too wet. Once dry, unwrap, chop tofu into roughly 1-inch cubes or rectangles.",
+            "Arrange tofu on a lightly greased or parchment-lined baking sheet to prevent sticking and bake for a total of 25-35 minutes, flipping once halfway through to ensure even cooking. This will dry out the tofu and help give it a more meat-like texture. If you want a tougher texture, cook it for 30-35. For a slightly more tender texture, pull it out at 20-25 minutes to check.",
+            "Once it’s golden brown and a bit tough and firm, remove from the oven set it out to dry a bit more while you prep your vegetables. Ideally, it would set out another 45 minutes or even longer.",
+            "If serving over rice, start the rice at this point.",
+            "In a small mixing bowl, whisk together all of the sauce ingredients – set aside.",
+            "To a large skillet over medium-high heat, add sesame oil and swirl to coat. Then add veggies and toss to coat. Cook for 5-7 minutes, stirring often. When the vegetables have some color and have softened a bit, add the sauce and stir. It should bubble and thicken. Then add the tofu and stir to coat.",
+            "Cook the mixture for 3-5 minutes, stirring often. When veggies are cooked to your preferred doneness, remove from heat. Serve as is or over rice for a more filling meal. Best when eaten fresh, though will keep in the refrigerator for a couple days."
         ]
     }
 }
