@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <title>Recipes</title>
+        <link rel="stylesheet" href="recipes.css" />
+    </head>
+    <script>
+        window.onload = function() {
+            const key = window.location.search.substring(1);
+
+            // open the json file
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState != 4 || xhr.status !== 200) return;
+                recipeDef = JSON.parse(xhr.responseText);
+                displayRecipe(recipeDef[key]);
+            };
+            xhr.onerror = function() {
+                console.log('Unable to load recipes');
+            };
+            xhr.open('get', 'recipes.json');
+            xhr.send();
+        }
+
+        function displayRecipe(recipeDef) {
+            const image = document.getElementById('image');
+            if (recipeDef.image) {
+                image.src = recipeDef.image;
+            } else {
+                image.style.display = 'none';
+            }
+
+            const nameDiv = document.getElementById('name-div');
+            nameDiv.innerHTML = recipeDef.name || '';
+
+            const ingredientsDiv = document.getElementById('ingredients');
+            let currentSection = document.createElement('ul');
+            currentSection.classList.add('ingredient-section');
+            ingredientsDiv.appendChild(currentSection);
+            for (const ingredientText of recipeDef.ingredients) {
+                if (ingredientText.startsWith('section')) {
+
+                    if (currentSection.innerHTML) {
+                        // append the previous section
+                        ingredientsDiv.appendChild(currentSection);
+                    }
+
+                    // section name
+                    const sectionName = document.createElement('p');
+                    sectionName.classList.add('section-name');
+                    sectionName.innerHTML = ingredientText.substring(8);
+                    ingredientsDiv.appendChild(sectionName);
+
+                    currentSection = document.createElement('ul');
+                    currentSection.classList.add('ingredient-section');
+
+                } else {
+                    const li = document.createElement('li');
+                    li.innerHTML = ingredientText;
+                    li.classList.add('ingredient');
+                    currentSection.appendChild(li);
+                }
+            }
+            ingredientsDiv.appendChild(currentSection);
+
+            const stepsList = document.getElementById('steps-list');
+            for (const stepText of recipeDef.steps) {
+
+                const li = document.createElement('li');
+                li.innerHTML = stepText;
+                li.classList.add('step');
+                stepsList.appendChild(li);
+            }
+        }
+
+    </script>
+    <body>
+        <a href="index.html">Back</a>
+        <center>
+            <img id="image" src="cornbread.jpg" alt="No Photo">
+        </center>
+        <h1 id="name-div"></h1>
+        <div id="ingredients"></div>
+        <ol id="steps-list"></ol>
+        <a href="index.html">Back</a>
+    </body>
+</html>

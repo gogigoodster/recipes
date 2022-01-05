@@ -1,0 +1,196 @@
+{
+    "template": {
+        "name": "Name",
+        "source": "website url",
+        "image": "image filename",
+        "ingredients": [
+            "Ingredient 1",
+            "Ingredient 2",
+            "Ingredient 3",
+            "..."
+        ],
+        "steps": [
+            "Step 1",
+            "Step 2",
+            "Step 3",
+            "..."
+        ]
+    },
+    "borscht": {
+        "name": "Борщ",
+        "source": "https://natashaskitchen.com/borscht-recipe-with-meat/",
+        "image": "borsht.jpg",
+        "ingredients": [
+            "1 lb Beef: sirloin, stew meat (bone-in or boneless)",
+            "14 cups cold water",
+            "1 Tbsp salt + more to taste",
+            "2 large or 3 medium beets, washed, peeled and grated",
+            "4 Tbsp olive oil",
+            "1 Tbsp vinegar",
+            "1 Tbsp sugar",
+            "2 Tbsp tomato sauce, or paste (or 3 Tbsp ketchup)",
+            "1 Tbsp butter",
+            "1 medium onion, finely diced",
+            "2 carrots, grated",
+            "2 large or 3 medium potatoes, peeled and sliced into bite-sized pieces",
+            "&frac12; head small cabbage, sliced",
+            "2 tomatoes, peeled and diced",
+            "2 bay leaves",
+            "&frac14; tsp freshly ground pepper",
+            "&frac14; cup chopped fresh parsley + more for garnish",
+            "2 cloves garlic, pressed",
+            "Garnish: Sour cream and fresh sprigs of parsley or dill"
+        ],
+        "steps": [
+            "Wash meat in cold water, cut into 1″ pieces and and place in a large soup pot with 14 cups cold water and 1 Tbsp salt. Bring it to a boil and remove the foam as soon as it boils (if you wait, it will be hard to get rid of the foam as it integrates into the broth and you’d have to strain it). Lower the heat, partially cover and cook at a low boil 45 minutes – 1 hr, periodically skimming off any foam that rises to the top.",
+            "Grate beets on the large grater holes (the food processor works amazingly well). Place them in a large heavy-bottom skillet with 4 Tbsp olive oil and 1 Tbsp vinegar and saute for 5 minutes, then reduce heat to med/low and add 1 Tbsp sugar and 2 Tbsp tomato sauce Mix thoroughly and saute until starting to soften, stirring occasionally (about 10 min). Remove from pan and set aside.",
+            "In the same skillet (no need to wash it), Saute onion in 1 Tbsp butter for 2 min. Add grated carrot and sautee another 5 min or until softened, adding more oil if it seems too dry.",
+            "Once the meat has been cooking at least 45 min, place sliced potatoes into the soup pot and cook 10 min, then add cabbage, sauteed beets, onion & carrot, and chopped tomatoes. Cook another 10 minutes or until potatoes can be easily pierced with a fork.",
+            "Add 2 bay leaves, 1/4 tsp pepper, and more salt to taste (I added another 1/2 tsp salt).",
+            "Chop parsley and pressed garlic then stir them into the soup pot, immediately cover and remove from heat. Let the pot rest covered for 20 minutes for the flavors to meld."
+        ]
+    },
+    "cheese-enchiladas": {
+        "name": "Cheese Enchiladas",
+        "source": "https://www.simplyrecipes.com/recipes/enchiladas/",
+        "image": "enchiladas.jpg",
+        "ingredients": [
+            "2 tablespoons olive oil or other cooking oil",
+            "12 corn tortillas",
+            "1&frac12; onion, chopped (about 3/4 cup)",
+            "1 clove garlic, minced (about 1 teaspoon)",
+            "1 (14 ounce) can crushed tomatoes, preferably fire roasted",
+            "1&frac34; cup chopped cooked green chiles (about a 4-ounce can)",
+            "1&frac12; cup water",
+            "1&frac12; teaspoon dried oregano",
+            "1 pound (4 cups) jack cheese, mild cheddar, or a mix, grated",
+            "Handful cilantro"
+        ],
+        "steps": [
+            "Preheat oven to 350° F.",
+            "In a large frying pan at medium-high heat add a tablespoon of oil. When the oil is shimmering and hot, add a corn tortilla to the pan. Cook it for several seconds, use a metal spatula to turn it over, and cook it for few seconds more. Continue stacking tortillas, removing the ones that have bubbled, softened and lightly browned, while adding more oil as needed to the pan.",
+            "Heat 2 teaspoons olive oil in a large sauté pan on medium heat. Add the chopped onion and cook for 5 to 6 minutes, until translucent. Add the garlic and cook for a minute more. Add the crushed tomatoes. Add the green chiles. Add 1/2 cup of water. Add the oregano. Bring to a simmer and taste. If the sauce tastes too vinegary, add half a teaspoon of sugar to the sauce. Remove from heat.",
+            "Put a little olive oil on the bottom of a 3-quart (9x13) casserole pan. Cover 2/3 of a tortilla lightly with the shredded cheese, then roll it up and place it in the casserole pan. Continue until all tortillas are filled and rolled.",
+            "Add sauce to the top of the tortillas in the casserole pan. Make sure the rolled up tortillas are covered with the sauce. If not, add a little water to thin the sauce to spread it more evenly over the tortillas. Cover the whole thing with the rest of the grated cheese.",
+            "Put the casserole in the 350°F oven for 10 to 15 minutes or until the cheese melts. Garnish enchiladas with cilantro."
+        ]
+    },
+    "cornbread": {
+        "name": "Cornbread",
+        "source": "http://www.bettycrocker.com/recipes/cornbread/8990e15c-fc1d-4a8d-b8b3-4b37f45eca49",
+        "image": "cornbread.jpg",
+        "ingredients": [
+            "&frac14; cup butter (&frac12; stick)",
+            "1 cup milk",
+            "1 large egg",
+            "1&frac14; cups yellow, white or blue cornmeal",
+            "1 cup all-purpose flour",
+            "&frac12; cup granulated sugar",
+            "1 tablespoon baking powder",
+            "&frac12; teaspoon salt"
+        ],
+        "steps": [
+            "Heat the oven to 400°F. Spray the bottom and sides of an 8-inch square pan or 9-inch round cake pan with the cooking spray.",
+            "In a 1-quart saucepan, heat the butter over low heat until melted.",
+            "In a large bowl, beat the melted butter, milk and egg with a fork or wire whisk until well mixed. Add the cornmeal, flour, sugar, baking powder and salt all at once; stir just until the flour is moistened (batter will be lumpy). Pour batter into the pan; use a rubber spatula to scrape batter from bowl. Spread batter evenly in pan and smooth top of batter.",
+            "Bake 20 to 25 minutes or until golden brown and a toothpick inserted in the center comes out clean. Serve warm."
+        ]
+    },
+    "kimchi": {
+        "name": "김치",
+        "source": "https://www.thekitchn.com/how-to-make-easy-kimchi-at-home-189390",
+        "image": "kimchi.jpg",
+        "ingredients": [
+            "1 medium head napa cabbage (about 2 pounds)",
+            "&frac14; cup iodine-free sea salt or kosher salt (Use salt that is free of iodine and anti-caking agents, which can inhibit fermentation.)",
+            "Water (Chlorinated water can inhibit fermentation, so use spring, distilled, or filtered water if you can.)",
+            "1 tablespoon grated garlic (5 to 6 cloves)",
+            "1 teaspoon grated peeled fresh ginger",
+            "1 teaspoon granulated sugar",
+            "2 tablepoons fish sauce or salted shrimp paste, or 3 tablespoons water",
+            "1-5 tablespoons Korean red pepper flakes (gochugaru)",
+            "8 ounces Korean radish or daikon radish, peeled and cut into matchsticks",
+            "4 medium scallions, trimmed and cut into 1-inch pieces"
+        ],
+        "steps": [
+            "Cut the cabbage lengthwise through the stem into quarters. Cut the cores from each piece. Cut each quarter crosswise into 2-inch-wide strips.",
+            "Place the cabbage in a large bowl and sprinkle with the salt. Using your hands, massage the salt into the cabbage until it starts to soften a bit. Add enough water to cover the cabbage. Put a plate on top of the cabbage and weigh it down with something heavy, like a jar or can of beans. Let stand for 1 to 2 hours.",
+            "Rinse the cabbage under cold water 3 times. Set aside to drain in a colander for 15 to 20 minutes. Meanwhile, make the spice paste.",
+            "Rinse and dry the bowl you used for salting. Add the garlic, ginger, sugar, and fish sauce, shrimp paste, or water and stir into a smooth paste. Stir in the gochugaru, using 1 tablespoon for mild and up to 5 tablespoons for spicy (I like about 3 1/2 tablespoons); set aside until the cabbage is ready.",
+            "Gently squeeze any remaining water from the cabbage and add it to the spice paste. Add the radish and scallions.",
+            "Using your hands, gently work the paste into the vegetables until they are thoroughly coated. The gloves are optional here but highly recommended to protect your hands from stings, stains, and smells!",
+            "Pack the kimchi into a 1-quart jar. Press down on the kimchi until the brine (the liquid that comes out) rises to cover the vegetables, leaving at least 1 inch of space at the top. Seal the jar.",
+            "Place a bowl or plate under the jar to help catch any overflow. Let the jar stand at cool room temperature, out of direct sunlight, for 1 to 5 days. You may see bubbles inside the jar and brine may seep out of the lid.",
+            "Check the kimchi once a day, opening the jar and pressing down on the vegetables with a clean finger or spoon to keep them submerged under the brine. (This also releases gases produced during fermentation.) Taste a little at this point, too! When the kimchi tastes ripe enough for your liking, transfer the jar to the refrigerator. You may eat it right away, but it's best after another week or two."
+        ]
+    },
+    "peanut-butter-cookies": {
+        "name": "Peanut Butter Cookies",
+        "source": "https://sallysbakingaddiction.com/classic-peanut-butter-cookies/",
+        "image": "peanut-butter-cookies.jpg",
+        "ingredients": [
+            "1 cup unsalted butter, softened to room temperature",
+            "1 cup granulated sugar",
+            "&frac34; cup packed light brown sugar",
+            "2 large eggs, room temperature",
+            "2 teaspoons pure vanilla extract",
+            "1 cup creamy peanut butter",
+            "3 cups all-purpose flour (spoon & leveled)",
+            "1 teaspoon baking soda",
+            "1 teaspoon baking powder",
+            "&frac12; teaspoon salt",
+            "&frac13; cup granulated sugar, for rolling (optional)"
+        ],
+        "steps": [
+            "Using a hand mixer or a stand mixer fitted with paddle attachment, cream the softened butter and both sugars together on medium speed until smooth. Add the eggs and mix on high until combined, about 1 minute. Scrape down the sides and bottom of the bowl as needed. Add the vanilla and peanut butter and mix on high until combined. Set aside.",
+            "In a separate bowl, toss the flour, baking soda, baking powder, and salt together. Add to the wet ingredients and mix on low until combined. Dough will be thick, yet very sticky. Cover dough tightly and chill for at least 3 hours (and up to 2 days) in the refrigerator.",
+            "Preheat oven to 350°F. Line two large baking sheets with parchment paper or silicone baking mats.",
+            "Roll balls of dough (about 1&frac12; tablespoons of dough per cookie) and roll into granulated sugar. Place 2 inches apart on the baking sheets. Press fork into the tops to create the criss-cross pattern. Bake for 11 minutes or until very lightly browned on the sides. The centers will look very soft and undone. Remove from the oven and let cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely. The cookies will continue to “set” on the baking sheet during this time."
+        ]
+    },
+    "shepherds-pie": {
+        "name": "Shepherd's Pie",
+        "source": "https://www.thewholesomedish.com/the-best-classic-shepherds-pie/",
+        "image": "shepherds-pie.jpg",
+        "ingredients": [
+            "section-Meat Filling",
+            "2 tablespoons olive oil",
+            "1 cup chopped yellow onion",
+            "1 lb. 90% lean ground beef or ground lamb",
+            "2 teaspoons dried parsley leaves",
+            "1 teaspoon dried rosemary leaves",
+            "1 teaspoon dried thyme leaves",
+            "&frac12; teaspoon salt",
+            "&frac12; teaspoon ground black pepper",
+            "1 tablespoon Worcestershire sauce",
+            "2 garlic cloves -minced",
+            "2 tablespoons all-purpose flour",
+            "2 tablespoons tomato paste",
+            "1 cup beef broth",
+            "1 cup frozen mixed peas & carrots",
+            "&frac12; cup frozen corn kernels",
+            "section-Potato Topping",
+            "1&frac12;-2 lb. russet potatoes (about 2 large potatoes peeled and cut into 1 inch cubes)",
+            "8 tablespoons unsalted butter (1 stick)",
+            "&frac13; cup half & half",
+            "1&frac12; teaspoon garlic powder",
+            "1&frac12; teaspoon salt",
+            "1&frac14; teaspoon ground black pepper",
+            "1&frac14; cup parmesan cheese"
+        ],
+        "steps": [
+            "Add the oil to a large skillet and place it over medium-high heat for 2 minutes. Add the onions. Cook 5 minutes, stirring occasionally.",
+            "Add the ground beef (or ground lamb) to the skillet and break it apart with a wooden spoon. Add the parsley, rosemary, thyme, salt, and and pepper. Stir well. Cook for 6-8 minutes, until the meat is browned, stirring occasionally.",
+            "Add the Worcestershire sauce and garlic. Stir to combine. Cook for 1 minute.",
+            "Add the flour and tomato paste. Stir until well incorporated and no clumps of tomato paste remain.",
+            "Add the broth, frozen peas and carrots, and frozen corn. Bring the liquid to a boil then reduce to simmer. Simmer for 5 minutes, stirring occasionally.",
+            "Set the meat mixture aside. Preheat oven to 400° F.",
+            "Place the potatoes in a large pot. Cover the potatoes with water. Bring the water to a boil. Reduce to a simmer. Cook until potatoes are fork tender, 10-15 minutes.",
+            "Drain the potatoes in a colander. Return the potatoes to the hot pot. Let the potatoes rest in the hot pot for 1 minute to evaporate any remaining liquid.",
+            "Add butter, half & half, garlic powder, salt, and pepper. Mash the potatoes and stir until all the ingredients are mixed together.",
+            "Add the parmesan cheese to the potatoes. Stir until well combined.",
+            "Pour the meat mixture into a 9x9 (or 7x11) inch baking dish. Spread it out into an even layer. Spoon the mashed potatoes on top of the meat. Carefully spread into an even layer.",
+            "If the baking dish looks very full, place it on a rimmed baking sheet so that the filling doesn’t bubble over into your oven. Bake uncovered for 25-30 minutes at 400° F. Cool for 15 minutes before serving."
+        ]
+    }
+}

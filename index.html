@@ -5,25 +5,45 @@
         <title>Recipes</title>
         <link rel="stylesheet" href="recipes.css" />
     </head>
-    <body>
-        <h1>Cornbread</h1>
-        <img src="cornbread.jpg" alt="Cornbread">
-        <ul>
-            <li>1/4 cup butter (1/2 stick)</li>
-            <li>1 cup milk</li>
-            <li>1 large egg</li>
-            <li>1 1/4 cups yellow, white or blue cornmeal</li>
-            <li>1 cup all-purpose flour</li>
-            <li>1/2 cup granulated sugar</li>
-            <li>1 tablespoon baking powder</li>
-            <li>1/2 teaspoon salt</li>
-        </ul>
+    <script>
+        window.onload = function() {
 
-        <ol>
-            <li>Heat the oven to 400°F. Spray the bottom and sides of an 8-inch square pan or 9-inch round cake pan with the cooking spray.</li>
-            <li>In a 1-quart saucepan, heat the butter over low heat until melted.</li>
-            <li>In a large bowl, beat the melted butter, milk and egg with a fork or wire whisk until well mixed. Add the cornmeal, flour, sugar, baking powder and salt all at once; stir just until the flour is moistened (batter will be lumpy). Pour batter into the pan; use a rubber spatula to scrape batter from bowl. Spread batter evenly in pan and smooth top of batter.</li>
-            <li>Bake 20 to 25 minutes or until golden brown and a toothpick inserted in the center comes out clean. Serve warm.</li>
-        </ol>
+            // open the json file
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState != 4 || xhr.status !== 200) return;
+                recipeDef = JSON.parse(xhr.responseText);
+                loadRecipes(recipeDef);
+            };
+            xhr.onerror = function() {
+                console.log('Unable to load recipes');
+            };
+            xhr.open('get', 'recipes.json');
+            xhr.send();
+        }
+
+        function loadRecipes(recipeDef) {
+            const recipeList = document.getElementById('recipe-list');
+            recipeList.innerHTML = '';
+            for (const key in recipeDef) {
+                if (key === 'template') continue;
+                const recipe = recipeDef[key];
+                const name = recipe.name || key;
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.innerHTML = recipe.name || key;
+                a.href = `recipes.html?${key}`;
+                li.appendChild(a);
+                recipeList.appendChild(li);
+            }
+        }
+
+    </script>
+    <body>
+        <center>
+            <h1>Recipes</h1>
+        </center>
+        <ul id="recipe-list">
+        </ul>
     </body>
 </html>
