@@ -1,5 +1,10 @@
 body {
     font-family: "Arial", sans-serif;
+    margin: 10px;
+}
+
+a {
+    font-size: 16px;
 }
 
 #image {
@@ -18,21 +23,25 @@ body {
 }
 
 #ingredients {
-    font-size: 18px;
-    font-weight: bold;
+    margin: 20px 0px;
+    padding: 0px;
 }
 
 .ingredient-section {
     column-width: 40vw;
     list-style: none;
-    padding-left: 38px;
-    padding-right: 20px;
+    margin-left: 38px;
+    margin-right: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
     text-indent: -18px;
 }
 
 .section-name {
-    padding-left: 20px;
-    padding-right: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px;
 }
 
 .section-name::after {
@@ -40,11 +49,13 @@ body {
 }
 
 .ingredient {
+    font-size: 18px;
+    font-weight: bold;
     padding-bottom: 10px;
-    padding-right: 20px;
 }
 
 #steps-list {
+    margin: 0px;
     padding-left: 40px;
     padding-right: 20px;
 }
