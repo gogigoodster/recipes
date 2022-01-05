@@ -31,70 +31,33 @@ body {
 #steps-list {
     padding-left: 40px;
     padding-right: 20px;
+    padding-top: 40px;
 }
 
-/* laptop or tablet */
-@media screen and (min-width: 600px) {
-
-    img {
-        width: 50vw;
-        height: 300px;
-        object-fit: cover;
-    }
-
-    #name-div {
-        font-size: 32px;
-    }
-
-    #ingredients {
-        font-size: 16px;
-    }
-
-    .ingredient-section {
-        column-width: 40vw;
-    }
-
-    .ingredient {
-        padding-bottom: 6px;
-        padding-right: 20px;
-    }
-
-    .step {
-        font-size: 16px;
-        padding-bottom: 8px;
-    }
+img {
+    width: 70vw;
+    height: 35vh;
+    object-fit: cover;
 }
 
-/* phone */
-@media screen and (max-width: 600px) {
+#name-div {
+    font-size: 40px;
+}
 
-    img {
-        margin: 0px 40px;
-        width: 80%;
-        height: 35vh;
-        object-fit: cover;
-    }
+#ingredients {
+    font-size: 20px;
+}
 
-    #name-div {
-        font-size: 40px;
-        font-weight: bold;
-    }
+.ingredient-section {
+    column-width: 40vw;
+}
 
-    #ingredients {
-        font-size: 20px;
-    }
+.ingredient {
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
 
-    .ingredient-section {
-        column-width: auto;
-    }
-
-    .ingredient {
-        padding-bottom: 10px;
-        padding-right: 20px;
-    }
-
-    .step {
-        font-size: 20px;
-        padding-bottom: 10px;
-    }
+.step {
+    font-size: 20px;
+    padding-bottom: 10px;
 }
