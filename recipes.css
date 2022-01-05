@@ -1,11 +1,17 @@
 body {
     font-family: "Arial", sans-serif;
     margin: 10px;
-    -webkit-text-size-adjust: 100%;
+}
+
+@media screen and (max-device-width: 480px){
+  body{
+    text-size-adjust: 200%;
+    -webkit-text-size-adjust: 200%;
+  }
 }
 
 a {
-    font-size: 16px;
+    font-size: 1em;
 }
 
 #image {
@@ -17,14 +23,14 @@ a {
 #name-div {
     border-bottom: 1px black solid;
     font-family: "Georgia", serif;
-    font-size: 40px;
+    font-size: 2em;
     font-variant: small-caps;
     font-weight: bold;
     margin: 20px;
 }
 
 #ingredients {
-    font-size: 18px;
+    font-size: 1em;
     font-weight: bold;
     margin: 20px 0px;
     padding: 0px;
@@ -42,7 +48,7 @@ a {
 }
 
 .section-name {
-    font-size: 18px;
+    font-size: 1em;
     font-weight: bold;
     margin: 20px;
 }
@@ -52,7 +58,7 @@ a {
 }
 
 .ingredient {
-    font-size: 18px;
+    font-size: 1em;
     font-weight: bold;
     padding-bottom: 10px;
 }
@@ -64,6 +70,6 @@ a {
 }
 
 .step {
-    font-size: 18px;
+    font-size: 1em;
     padding-bottom: 10px;
 }
