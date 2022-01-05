@@ -9,7 +9,7 @@ body {
 }
 
 #name-div {
-  border-bottom: 1px black solid;
+    border-bottom: 1px black solid;
     font-family: "Georgia", serif;
     font-size: 40px;
     font-variant: small-caps;
@@ -17,10 +17,13 @@ body {
     margin: 20px;
 }
 
-.ingredient-section {
-    column-width: 40vw;
+#ingredients {
     font-size: 18px;
     font-weight: bold;
+}
+
+.ingredient-section {
+    column-width: 40vw;
     list-style: none;
     padding-left: 38px;
     padding-right: 20px;
@@ -28,8 +31,6 @@ body {
 }
 
 .section-name {
-    font-size: 18px;
-    font-weight: bold;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -39,8 +40,6 @@ body {
 }
 
 .ingredient {
-    font-size: 18px;
-    font-weight: bold;
     padding-bottom: 10px;
     padding-right: 20px;
 }
@@ -48,7 +47,6 @@ body {
 #steps-list {
     padding-left: 40px;
     padding-right: 20px;
-    padding-top: 40px;
 }
 
 .step {
