@@ -16,6 +16,28 @@
             "..."
         ]
     },
+    "banana-bread": {
+        "name": "Banana Bread",
+        "source": "https://www.simplyrecipes.com/recipes/banana_bread/",
+        "image": "banana-bread.jpg",
+        "ingredients": [
+            "2 or 3 very ripe bananas, peeled (about 1&frac14; to 1&frac12; cups mashed)",
+            "&frac13; cup unsalted or salted butter, melted",
+            "&frac12; teaspoon baking soda",
+            "1 pinch salt",
+            "&frac34; cup sugar",
+            "1 large egg, beaten",
+            "1 teaspoon vanilla extract",
+            "1&frac12; cups all-purpose flour"
+        ],
+        "steps": [
+            "Preheat the oven to 350°F, and butter a 4 x 8-inch loaf pan.",
+            "In a mixing bowl, mash the ripe bananas with a fork until completely smooth. Stir the melted butter into the mashed bananas.",
+            "Mix in the baking soda and salt. Stir in the sugar, beaten egg, and vanilla extract. Mix in the flour.",
+            "Pour the batter into your prepared loaf pan. Bake for 50–60 minutes at 350°F, or until a toothpick inserted into the center comes out clean. A few dry crumbs are okay; streaks of wet batter are not. If the outside of the loaf is browned but the center is still wet, loosely tent the loaf with foil and continue baking until the loaf is fully baked.",
+            "Remove from oven and let cool in the pan for a few minutes. Then remove the banana bread from the pan and let cool completely before serving."
+        ]
+    },
     "borscht": {
         "name": "Борщ",
         "source": "https://natashaskitchen.com/borscht-recipe-with-meat/",
@@ -42,11 +64,11 @@
             "Garnish: Sour cream and fresh sprigs of parsley or dill"
         ],
         "steps": [
-            "Wash meat in cold water, cut into 1″ pieces and and place in a large soup pot with 14 cups cold water and 1 Tbsp salt. Bring it to a boil and remove the foam as soon as it boils (if you wait, it will be hard to get rid of the foam as it integrates into the broth and you’d have to strain it). Lower the heat, partially cover and cook at a low boil 45 minutes – 1 hr, periodically skimming off any foam that rises to the top.",
+            "Wash meat in cold water, cut into 1 inch pieces and and place in a large soup pot with 14 cups cold water and 1 Tbsp salt. Bring it to a boil and remove the foam as soon as it boils (if you wait, it will be hard to get rid of the foam as it integrates into the broth and you’d have to strain it). Lower the heat, partially cover and cook at a low boil 45–60 minutes, periodically skimming off any foam that rises to the top.",
             "Grate beets on the large grater holes (the food processor works amazingly well). Place them in a large heavy-bottom skillet with 4 Tbsp olive oil and 1 Tbsp vinegar and saute for 5 minutes, then reduce heat to med/low and add 1 Tbsp sugar and 2 Tbsp tomato sauce Mix thoroughly and saute until starting to soften, stirring occasionally (about 10 min). Remove from pan and set aside.",
             "In the same skillet (no need to wash it), Saute onion in 1 Tbsp butter for 2 min. Add grated carrot and sautee another 5 min or until softened, adding more oil if it seems too dry.",
             "Once the meat has been cooking at least 45 min, place sliced potatoes into the soup pot and cook 10 min, then add cabbage, sauteed beets, onion & carrot, and chopped tomatoes. Cook another 10 minutes or until potatoes can be easily pierced with a fork.",
-            "Add 2 bay leaves, 1/4 tsp pepper, and more salt to taste (I added another 1/2 tsp salt).",
+            "Add 2 bay leaves, &frac14; tsp pepper, and more salt to taste (I added another &frac12; tsp salt).",
             "Chop parsley and pressed garlic then stir them into the soup pot, immediately cover and remove from heat. Let the pot rest covered for 20 minutes for the flavors to meld."
         ]
     },
@@ -57,7 +79,7 @@
         "ingredients": [
             "2 tablespoons olive oil or other cooking oil",
             "12 corn tortillas",
-            "1&frac12; onion, chopped (about 3/4 cup)",
+            "1&frac12; onion, chopped (about &frac34; cup)",
             "1 clove garlic, minced (about 1 teaspoon)",
             "1 (14 ounce) can crushed tomatoes, preferably fire roasted",
             "1&frac34; cup chopped cooked green chiles (about a 4-ounce can)",
@@ -69,8 +91,8 @@
         "steps": [
             "Preheat oven to 350°F.",
             "In a large frying pan at medium-high heat add a tablespoon of oil. When the oil is shimmering and hot, add a corn tortilla to the pan. Cook it for several seconds, use a metal spatula to turn it over, and cook it for few seconds more. Continue stacking tortillas, removing the ones that have bubbled, softened and lightly browned, while adding more oil as needed to the pan.",
-            "Heat 2 teaspoons olive oil in a large sauté pan on medium heat. Add the chopped onion and cook for 5 to 6 minutes, until translucent. Add the garlic and cook for a minute more. Add the crushed tomatoes. Add the green chiles. Add 1/2 cup of water. Add the oregano. Bring to a simmer and taste. If the sauce tastes too vinegary, add half a teaspoon of sugar to the sauce. Remove from heat.",
-            "Put a little olive oil on the bottom of a 3-quart (9x13) casserole pan. Cover 2/3 of a tortilla lightly with the shredded cheese, then roll it up and place it in the casserole pan. Continue until all tortillas are filled and rolled.",
+            "Heat 2 teaspoons olive oil in a large sauté pan on medium heat. Add the chopped onion and cook for 5 to 6 minutes, until translucent. Add the garlic and cook for a minute more. Add the crushed tomatoes. Add the green chiles. Add &frac12; cup of water. Add the oregano. Bring to a simmer and taste. If the sauce tastes too vinegary, add half a teaspoon of sugar to the sauce. Remove from heat.",
+            "Put a little olive oil on the bottom of a 3-quart (9x13) casserole pan. Cover &frac23; of a tortilla lightly with the shredded cheese, then roll it up and place it in the casserole pan. Continue until all tortillas are filled and rolled.",
             "Add sauce to the top of the tortillas in the casserole pan. Make sure the rolled up tortillas are covered with the sauce. If not, add a little water to thin the sauce to spread it more evenly over the tortillas. Cover the whole thing with the rest of the grated cheese.",
             "Put the casserole in the 350°F oven for 10 to 15 minutes or until the cheese melts. Garnish enchiladas with cilantro."
         ]
@@ -116,7 +138,7 @@
             "Cut the cabbage lengthwise through the stem into quarters. Cut the cores from each piece. Cut each quarter crosswise into 2-inch-wide strips.",
             "Place the cabbage in a large bowl and sprinkle with the salt. Using your hands, massage the salt into the cabbage until it starts to soften a bit. Add enough water to cover the cabbage. Put a plate on top of the cabbage and weigh it down with something heavy, like a jar or can of beans. Let stand for 1 to 2 hours.",
             "Rinse the cabbage under cold water 3 times. Set aside to drain in a colander for 15 to 20 minutes. Meanwhile, make the spice paste.",
-            "Rinse and dry the bowl you used for salting. Add the garlic, ginger, sugar, and fish sauce, shrimp paste, or water and stir into a smooth paste. Stir in the gochugaru, using 1 tablespoon for mild and up to 5 tablespoons for spicy (I like about 3 1/2 tablespoons); set aside until the cabbage is ready.",
+            "Rinse and dry the bowl you used for salting. Add the garlic, ginger, sugar, and fish sauce, shrimp paste, or water and stir into a smooth paste. Stir in the gochugaru, using 1 tablespoon for mild and up to 5 tablespoons for spicy (I like about 3&frac12; tablespoons); set aside until the cabbage is ready.",
             "Gently squeeze any remaining water from the cabbage and add it to the spice paste. Add the radish and scallions.",
             "Using your hands, gently work the paste into the vegetables until they are thoroughly coated. The gloves are optional here but highly recommended to protect your hands from stings, stains, and smells!",
             "Pack the kimchi into a 1-quart jar. Press down on the kimchi until the brine (the liquid that comes out) rises to cover the vegetables, leaving at least 1 inch of space at the top. Seal the jar.",
@@ -172,7 +194,7 @@
         "source": "https://www.onceuponachef.com/recipes/spiced-pumpkin-bread.html",
         "image": "pumpkin-bread.jpg",
         "ingredients": [
-            "2 cups all-purpose flour, spooned into measuring cup and leveled-off",
+            "2 cups all-purpose flour",
             "&frac12; teaspoon salt",
             "1 teaspoon baking soda",
             "&frac12; teaspoon baking powder",
@@ -185,11 +207,11 @@
             "1 15-oz can 100% pure pumpkin"
         ],
         "steps": [
-            "Preheat the oven to 325°F and set an oven rack in the middle position. Generously grease two 8 x 4-inch loaf pans with butter and dust with flour.",
+            "Preheat the oven to 325°F and set an oven rack in the middle position. Generously grease a 9 x 5-inch loaf pan with butter.",
             "In a medium bowl, combine the flour, salt, baking soda, baking powder, cloves, cinnamon, and nutmeg. Whisk until well combined; set aside.",
-            "In a large bowl of an electric mixer, beat the butter and sugar on medium speed until just blended. Add the eggs one at a time, beating well after each addition. Continue beating until very light and fluffy, a few minutes. Beat in the pumpkin. The mixture might look grainy and curdled at this point -- that's okay.",
-            "Add the flour mixture and mix on low speed until combined.",
-            "Turn the batter into the prepared pans, dividing evenly, and bake for 65–75 minutes, or until a cake tester inserted into the center comes out clean. Let the loaves cool in the pans for about 10 minutes, then turn out onto a wire rack to cool completely."
+            "Beat the butter and sugar until just blended. Add the eggs one at a time, beating well after each addition. Continue beating until very light and fluffy, a few minutes. Beat in the pumpkin. The mixture might look grainy and curdled at this point -- that's okay.",
+            "Add the flour mixture and mix until combined.",
+            "Turn the batter into the prepared pan, and bake for 65–75 minutes, or until a toothpick inserted into the center comes out clean. Let the loaf cool in the pan for about 10 minutes, then turn out onto a wire rack to cool completely."
         ]
     },
     "shepherds-pie": {
@@ -245,13 +267,13 @@
             "section-Stir Fry",
             "1 14-ounce package firm or extra-firm tofu",
             "2 cups roughly chopped green beans",
-            "1 cup diced carrots or red pepper",
-            "2 Tbsp toasted sesame oil for sautéing (or sub peanut or coconut)",
+            "1 cup diced carrots and/or red pepper",
+            "2 Tbsp vegetable oil for sautéing",
             "section-Sauce",
-            "1/4 cup low-sodium soy sauce",
-            "1 Tbsp fresh grated ginger",
-            "2 Tbsp organic brown sugar",
-            "1 Tbsp agave or maple syrup (or honey)",
+            "&frac14; cup soy sauce or teriyaki sauce",
+            "1 Tbsp ground ginger",
+            "2 Tbsp brown sugar",
+            "1 Tbsp honey",
             "1 Tbsp cornstarch",
             "section-For Serving",
             "Brown rice, white rice, or quinoa",
@@ -260,12 +282,12 @@
         "steps": [
             "Preheat oven to 400°F and begin drying your tofu. Drain, remove it from the package and place between two thick towels folded into the shape of the tofu. Then place a plate or bowl on top and top it with something heavy like a book or skillet. Alternatively, use a tofu press.",
             "Let it dry for about 15 minutes, changing your towels if they get too wet. Once dry, unwrap, chop tofu into roughly 1-inch cubes or rectangles.",
-            "Arrange tofu on a lightly greased or parchment-lined baking sheet to prevent sticking and bake for a total of 25-35 minutes, flipping once halfway through to ensure even cooking. This will dry out the tofu and help give it a more meat-like texture. If you want a tougher texture, cook it for 30-35. For a slightly more tender texture, pull it out at 20-25 minutes to check.",
+            "Arrange tofu on a lightly greased or parchment-lined baking sheet to prevent sticking and bake for a total of 25–35 minutes, flipping once halfway through to ensure even cooking. This will dry out the tofu and help give it a more meat-like texture. If you want a tougher texture, cook it for 30–35. For a slightly more tender texture, pull it out at 20–25 minutes to check.",
             "Once it’s golden brown and a bit tough and firm, remove from the oven set it out to dry a bit more while you prep your vegetables. Ideally, it would set out another 45 minutes or even longer.",
             "If serving over rice, start the rice at this point.",
             "In a small mixing bowl, whisk together all of the sauce ingredients – set aside.",
-            "To a large skillet over medium-high heat, add sesame oil and swirl to coat. Then add veggies and toss to coat. Cook for 5-7 minutes, stirring often. When the vegetables have some color and have softened a bit, add the sauce and stir. It should bubble and thicken. Then add the tofu and stir to coat.",
-            "Cook the mixture for 3-5 minutes, stirring often. When veggies are cooked to your preferred doneness, remove from heat. Serve as is or over rice for a more filling meal. Best when eaten fresh, though will keep in the refrigerator for a couple days."
+            "To a large skillet over medium-high heat, add vegetable oil and swirl to coat. Then add veggies and toss to coat. Cook for 5–7 minutes, stirring often. When the vegetables have some color and have softened a bit, add the sauce and stir. It should bubble and thicken. Then add the tofu and stir to coat.",
+            "Cook the mixture for 3–5 minutes, stirring often. When veggies are cooked to your preferred doneness, remove from heat. Serve as is or over rice for a more filling meal. Best when eaten fresh, though will keep in the refrigerator for a couple days."
         ]
     }
 }
