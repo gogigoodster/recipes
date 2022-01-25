@@ -97,6 +97,32 @@
             "Put the casserole in the 350°F oven for 10 to 15 minutes or until the cheese melts. Garnish enchiladas with cilantro."
         ]
     },
+    "chicken-pot-pie": {
+        "name": "Chicken Pot Pie",
+        "source": "https://natashaskitchen.com/chicken-pot-pie-recipe/",
+        "image": "chicken-pot-pie.jpg",
+        "ingredients": [
+            "1 double-layer pie crust",
+            "4 cups shredded, cooked chicken",
+            "6 tablespoon unsalted butter",
+            "1 medium onion, chopped",
+            "1 small can peas and carrots",
+            "1 small can mushrooms",
+            "1 tablespoon minced garlic",
+            "&frac13; cup flour",
+            "2 cups chicken broth",
+            "&frac12; cup heavy cream",
+            "2 teaspoons salt",
+            "&frac14; teaspoon black pepper"
+        ],
+        "steps": [
+            "Melt butter in a pot or sauce pan. Add onions and sauté until soft. Add peas, carrots, and mushrooms.",
+            "Add flour and stir for 2 minutes. Add broth and cream, then bring to a simmer and cook until mixture is a thick gravy consistency. Add salt, pepper, and season to taste.",
+            "Add shredded cooked chicken. Stir to combine then remove to cool while you roll out the crusts. Transfer bottom crust to a 9 inch pie dish. Spoon filling over bottom crust.",
+            "Place top crust over filling and crimp. Cut 5 small slits in the top to allow steam to escape. Sprinkle top with salt and pepper.",
+            "Bake at 425°F for 30-35 minutes or until top crust is golden brown. Let cool for 15 minutes before slicing."
+        ]
+    },
     "cornbread": {
         "name": "Cornbread",
         "source": "http://www.bettycrocker.com/recipes/cornbread/8990e15c-fc1d-4a8d-b8b3-4b37f45eca49",
@@ -187,6 +213,28 @@
         "steps": [
             "In a blender add the basil, vinegar, garlic, oregano and 1 tbsp of olive oil. Turn the blender on and when the basil has turned into a paste, drizzle in the remaining 2 tbsp of olive oil. Season with salt and pepper.",
             "In a large bowl add the mozzarella and cheery tomatoes, season with salt and pepper. Add the pasta and basil vinaigrette. Toss everything to combine and refrigerate 1 hour before serving."
+        ]
+    },
+    "pie-crust": {
+        "name": "Pie Crust",
+        "image": "pie-crust.jpg",
+        "ingredients": [
+            "section-Single-crust",
+            "1&frac14; cups flour",
+            "&frac14; teaspoon salt",
+            "&frac13; cup butter",
+            "4 to 5 tablespoons water",
+            "section-Double-crust",
+            "2&frac14; cups flour",
+            "&frac34; teaspoon salt",
+            "&frac23; cup butter",
+            "8 to 10 tablespoons water"
+        ],
+        "steps": [
+            "Stir together flour and salt in a bowl. Cut in butter with a pastry blender until pieces are pea size.",
+            "Sprinkle 1 tablespoon water over part of the mixture and toss with a fork. Repeat until the mixture is moistened. Form pastry into a ball.",
+            "On a floured surface, roll the pastry to about 12 inches in diameter. Wrap the pastry around a rolling pin and transfer to a 9-inch pie plate.",
+            "Trim and crimp the edge of the pastry as needed. Repeat for top layer of double-crust pie."
         ]
     },
     "pumpkin-bread": {
